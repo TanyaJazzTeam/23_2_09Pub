@@ -4,4 +4,5 @@ settings:
 pretranslate:
   paths:
   - source: .
-         - " 07_1_09.md"
+    include:
+         - "07_1_09.md"
