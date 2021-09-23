@@ -1,3 +1,6 @@
 syttings:
   advise_cla_signing:
   - "true"
+  popup_for_contributorss:
+    enabled: true 
+    message_text: eeeeeee
