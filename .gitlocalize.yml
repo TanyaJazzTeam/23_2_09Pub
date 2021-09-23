@@ -1,5 +1,3 @@
-synchronize:
-  paths:
-  - source:
-    include:
-    -"не битые/*"
+syttings:
+  advise_cla_signing:
+  - "true"
