@@ -1,4 +1,5 @@
 synchronize:
   paths:
-   -include:
+  - source:
+    include:
          -"не битые/*"
