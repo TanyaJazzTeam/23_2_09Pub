@@ -6,3 +6,7 @@ pretranslate:
   - source: .
     include:
          - "07_1_09.md"
+synchronize:
+  paths:
+   -include:
+         -"w/*.*"
