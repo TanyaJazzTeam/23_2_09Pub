@@ -1,4 +1,4 @@
 synchronize:
   paths:
    -include:
-         -"не битые"
+         -"не битые/*"
