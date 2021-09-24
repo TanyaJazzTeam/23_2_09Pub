@@ -1,4 +1,4 @@
- settings:
-  popup_for_contributors:
-    enabled: true
-    message_text: Hello
+settings:
+ popup_for_contributors:
+   enabled: true
+   message_text: Hello
