@@ -1,6 +1,4 @@
-<!-- settings:
-  advise_cla_signing:
-  - "true"
-  popup_for_contributorss:
-    enabled: true 
-    message_text: eeeeee. -->
+ settings:
+  popup_for_contributors:
+    enabled: true
+    message_text: Hello
